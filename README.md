@@ -20,3 +20,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benosmanhind&" alt="benosmanhind" /></p>
 
+Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
